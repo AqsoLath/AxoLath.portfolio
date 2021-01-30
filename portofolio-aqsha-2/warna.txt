@@ -1,0 +1,13 @@
+ef476f :pink
+ffd166 : kuning
+06d6a0 :hijau
+118ab2 :biru
+073b4c : biru donker
+
+
+#303841 : hitam gelap
+#3a4750 : hitam rada terang
+#f6c90e : emas
+#eeeeee : putih
+#ffffff : putih
+
